@@ -1,3 +1,11 @@
 header {
-	
+	background-color: #fccc04;
+}
+
+#trailers{
+	background-color: #f4f8f4;
+}
+
+#article{
+	float: left;
 }
